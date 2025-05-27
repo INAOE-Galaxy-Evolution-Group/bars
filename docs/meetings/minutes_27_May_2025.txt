@@ -1,0 +1,10 @@
+Edwin gave a recap of themes discussed in the last meeting.
+Edwin demonstrated how the number of times the curve crosses A2 = 0.2 line in A2 vs time can be used a metric for quantifying bar stability
+Alan demonstrated how int(A2-0.2) can be used as a metric for bar stability. He also showed that generally no quantities are strongly correlated in the catalog Josue provided.
+Josue gave a demonstration on generating visualizations using TNG data.
+
+To do 
+
+1) Download SubhaloBHMass, SubhaloStarMetallicityHalfRad,SubhaloSFRinHalfRad,SubhaloVelDisp for all snapshots.
+2) Look for physically motivated correlations.
+3) Summarize the exploratory phase.
